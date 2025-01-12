@@ -1,0 +1,1 @@
+# frontend-django-aws-project
